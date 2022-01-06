@@ -4,7 +4,6 @@
 
 (Note: If the gif isn't working, view it directly by navigating [here](https://curriculum-content.s3.amazonaws.com/react/pokemon.gif))
 
-## Setup
 
 All the Pokemon information about can be found in the `db.json` file. We'll
 be using `json-server` to create a RESTful API for our database.
